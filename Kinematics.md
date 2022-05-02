@@ -27,6 +27,10 @@ Instead of the velocity of the Knee (considered to be the end effector here), we
 
 (Pknee - Pcalc) vector thus defines the muscle fiber. (Pknee - Pcalc).time_derivative provides the contraction velocity. The graphs below show the contraction velocities of the fiber in the X, Y directions and net velocity:
 
+
+## [Link to System Kinematics model](https://github.com/schen304joseph/team3.github.io/blob/Zaki-Patel/Kinematics.ipynb)
+
+
 ![image caption](X direction velocity.JPG)
 ![image caption](Y direction velocity.JPG)
 ![image caption](Z direction velocity.JPG)
