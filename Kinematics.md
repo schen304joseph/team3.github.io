@@ -33,6 +33,7 @@ Instead of the velocity of the Knee (considered to be the end effector here), we
 
 
 
+
 ![image caption](X direction velocity.JPG)
 ![image caption](Y direction velocity.JPG)
 ![image caption](Z direction velocity.JPG)
