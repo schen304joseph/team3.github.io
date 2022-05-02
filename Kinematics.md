@@ -31,6 +31,8 @@ Instead of the velocity of the Knee (considered to be the end effector here), we
 ## [Link to System Kinematics model](https://github.com/schen304joseph/team3.github.io/blob/Zaki-Patel/Kinematics.ipynb)
 
 
+
+
 ![image caption](X direction velocity.JPG)
 ![image caption](Y direction velocity.JPG)
 ![image caption](Z direction velocity.JPG)
